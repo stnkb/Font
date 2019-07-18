@@ -1,20 +1,3 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-</style>
 
 ![图片失效](http://mahua.jser.me/mahua-logo.jpg "Logo Title Text 1")
 
@@ -29,13 +12,8 @@
 * 方便的`导入导出`功能
     *  直接把一个markdown的文本文件拖放到当前这个页面就可以了
     *  导出为一个html格式的文件，样式一点也不会丢失
-* 编辑和预览`同步滚动`，所见即所得（右上角设置）
-* `VIM快捷键`支持，方便vim党们快速的操作 （右上角设置）
-* 强大的`自定义CSS`功能，方便定制自己的展示
-* 有数量也有质量的`主题`,编辑器和预览区域
 * 完美兼容`Github`的markdown语法
 * 预览区域`代码高亮`
-* 所有选项自动记忆
 
 ## 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
@@ -66,7 +44,9 @@
 - [ ] 完成100%
 - [x] 未完成
 
-<article class="markdown-body">
-	<h1>Tip:正在加载中····</h1>
-	<p>All the things</p>
-</article>
+<details>
+	<summary>点击展开</summary>
+	<p>文本1</p>
+</details>
+
+<kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd>
