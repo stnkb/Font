@@ -45,3 +45,4 @@
 ```
 <span id="jump1">测试跳转的文本</span>
 <a href="tencent://message/?uin=1342733633&Menu=yes">发送消息</a>
+<tencent://message/?uin=1342733633&Menu=yes/>
