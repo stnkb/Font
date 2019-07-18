@@ -1,8 +1,4 @@
 <article class="markdown-body">
-    <h1>Unicorns</h1>
-    <p>All the things</p>
-</article>
-
 ![mahua](http://mahua.jser.me/mahua-logo.jpg)
 [跳转到末尾](#jump1)
 ## MaHua是什么?
@@ -48,3 +44,4 @@
   }
 ```
 <span id="jump1">测试跳转的文本</span>
+</article>
