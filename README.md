@@ -1,4 +1,4 @@
-![mahua](http://mahua.jser.me/mahua-logo.jpg "Logo Title Text 1")
+![图片失效](http://mahua.jser.me/mahua-logo.jpg "Logo Title Text 1")
 
 [跳转到末尾](#jump1)
 ## MaHua是什么?
@@ -23,7 +23,7 @@
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 邮件(1342733633@qq.com)
-* QQ: [@四大々皆空](http://wpa.qq.com/msgrd?v=3&uin=1342733633&site=qq&menu=yes)
+* QQ: [@四大々皆空][link1]
 * weibo: [@无](http://weibo.com/ihubo)
 
 <!--
@@ -44,5 +44,4 @@
   }
 ```
 <span id="jump1">测试跳转的文本</span>
-<a href="tencent://message/?uin=1342733633&Menu=yes">发送消息</a>
-<tencent://message/?uin=1342733633&Menu=yes/>
+[link1]:http://wpa.qq.com/msgrd?v=3&uin=1342733633&site=qq&menu=yes "四大々皆空"
