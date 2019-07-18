@@ -50,3 +50,5 @@
 </details>
 
 <kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd>
+
+emoji表情:EMOJICODE:
