@@ -23,7 +23,7 @@
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 邮件(1342733633@qq.com)
-* QQ: [@四大々皆空][link1]
+* QQ: [@四大々皆空](http://wpa.qq.com/msgrd?v=3&uin=1342733633&site=qq&menu=yes "四大々皆空")
 * weibo: [@无](http://weibo.com/ihubo)
 
 <!--
@@ -44,4 +44,6 @@
   }
 ```
 <span id="jump1">测试跳转的文本</span>
-[link1]:http://wpa.qq.com/msgrd?v=3&uin=1342733633&site=qq&menu=yes "四大々皆空"
+
+- [ ] 完成100%
+- [x] 未完成
