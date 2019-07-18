@@ -21,11 +21,14 @@
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 邮件(1342733633@qq.com)
-* QQ: [@四大々皆空](tencent://message/?uin=1342733633&Menu=yes)或[+四大々皆空](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1342733633 http://wpa.qq.com/msgrd?v=3&uin=1342733633&site=qq&menu=yes)
+* QQ: [@四大々皆空](http://wpa.qq.com/msgrd?v=3&uin=1342733633&site=qq&menu=yes)
 * weibo: [@无](http://weibo.com/ihubo)
 
-##感激
-感谢以下的项目,排名不分先后
+<!--
+打开QQ资料卡 tencent://snsapp/?cmd=2&ver=1&uin=1815527965
+添加好友 tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1342733633
+发送消息 tencent://message/?uin=1342733633&Menu=yes
+-->
 
 * [mou](http://mouapp.com/) 
 * [ace](http://ace.ajax.org/)
