@@ -1,3 +1,21 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+	.markdown-body {
+		box-sizing: border-box;
+		min-width: 200px;
+		max-width: 980px;
+		margin: 0 auto;
+		padding: 45px;
+	}
+
+	@media (max-width: 767px) {
+		.markdown-body {
+			padding: 15px;
+		}
+	}
+</style>
+
 ![图片失效](http://mahua.jser.me/mahua-logo.jpg "Logo Title Text 1")
 
 [跳转到末尾](#jump1)
@@ -47,4 +65,8 @@
 
 - [ ] 完成100%
 - [x] 未完成
-Tip:正在加载中····
+
+<article class="markdown-body">
+	<h1>Tip:正在加载中····</h1>
+	<p>All the things</p>
+</article>
