@@ -1,5 +1,4 @@
-<article class="markdown-body">
-![mahua](http://mahua.jser.me/mahua-logo.jpg)
+![mahua](http://mahua.jser.me/mahua-logo.jpg "Logo Title Text 1")
 [跳转到末尾](#jump1)
 ## MaHua是什么?
 一个在线编辑markdown文档的编辑器
@@ -44,4 +43,3 @@
   }
 ```
 <span id="jump1">测试跳转的文本</span>
-</article>
