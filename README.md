@@ -52,4 +52,4 @@
 <kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd>
 <!--徽章生成-->
 
-![点赞](https://img.shields.io/github/stars/stnkb/Font.svg?label=%E7%82%B9%E8%B5%9E&style=social)
+![点赞https://img.shields.io/github/stars/stnkb/Font.svg?label=%E7%82%B9%E8%B5%9E&style=social](https://camo.githubusercontent.com/4aacabb190c63aa003523741d3505899b98d74ec/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f73746e6b622f466f6e742e7376673f6c6162656c3d254537253832254239254538254235253945267374796c653d736f6369616c)
