@@ -51,4 +51,5 @@
 
 <kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd>
 <!--徽章生成-->
-https://img.shields.io/github/stars/stnkb/Font.svg?label=%E7%82%B9%E8%B5%9E&style=social
+
+![点赞](https://img.shields.io/github/stars/stnkb/Font.svg?label=%E7%82%B9%E8%B5%9E&style=social)
